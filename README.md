@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Vivian e sou Analista de Testes de Software</h1>
+<h1 align="center">Olá, sou Vivian (Analista de Testes de Software)</h1>
 
 <div>
   <h3 align="left">IDE:</h3>  
